@@ -1,0 +1,33 @@
+_repo: Masterpieces-of-Mystery-In-Four-VolumesDetective-Stories_27523
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: French, Joseph Lewis
+    birthdate: 1858
+    deathdate: 1936
+    gutenberg_agent_id: '8001'
+    url: http://www.gutenberg.org/2009/agents/8001
+description: ''
+gutenberg_issued: '2008-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27523'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghost stories'
+- !lcsh 'Short stories'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PN'
+tableOfContents: "The Purloined Letter / Edgar Allan Poe\r\nThe Black Hand / Arthur\
+  \ B. Reeve\r\nThe Biter Bit / Wilkie Collins\r\nMissing: Page Thirteen / Anna Katherine\
+  \ Green\r\nA Scandal in Bohemia / A. Conan Doyle\r\nThe Rope of Fear / Mary E. and\
+  \ Thomas W. Hanshew\r\nThe Safety Match / Anton Chekhov\r\nSome Scotland Yard Stories,\
+  \ from \"Criminals and Crime\" / Sir Robert Anderson."
+title: 'Masterpieces of Mystery in Four Volumes: Detective Stories'
+url: http://www.gutenberg.org/ebooks/27523
